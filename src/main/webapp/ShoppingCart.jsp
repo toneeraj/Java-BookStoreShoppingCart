@@ -27,7 +27,7 @@
                   <th>Quantity</th>
                   <th>Total Cost</th>
                   <th></th>
-	            </tr>
+	            </tr> 
 
       	 			<c:forEach items="${cart.cartItems}" var="cartItem" varStatus="loop">
                   <tr>
